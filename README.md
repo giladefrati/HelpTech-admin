@@ -1,3 +1,6 @@
+** *Please Notice: The uploaded project is the POC (Proof of concept) version only, due to copyright issues* **
+
+
 ## Help&Tech Project Background
 A socio-technological venture where a team of computer science students build a technology product for a non-profit organization that can't afford to hire developers.
 The project involved the entire process from product specification to actually programming it. 
@@ -15,7 +18,6 @@ I also realized how big the open source community is, and how powerful is it to 
 
 #### Project Status
 This project is currently on freeze due to logistic issues.
-
 
 #### Installation and Setup Instructions
 Clone down this repository. You will need the npm installed on your machine. Then start the server.
